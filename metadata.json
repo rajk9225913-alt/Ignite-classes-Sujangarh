@@ -1,0 +1,7 @@
+{
+  "name": "Ignite Classes Sujangarh - Rajasthan Exam Coaching & Admin Hub",
+  "description": "Premier Rajasthan competitive exam coaching portal for REET, CET, Patwar, Police, and Grade 1/2 with interactive daily quiz, study notes, demo lectures, and hidden admin management panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
